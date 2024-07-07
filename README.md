@@ -12,6 +12,7 @@ Interface Gráfica: Interface de usuário gráfica criada utilizando a bibliotec
 Tecnologias Utilizadas
 
 Python: Linguagem de programação principal utilizada para desenvolver o jogo.
+Pygame: Biblioteca utilizada para criar a interface gráfica e a lógica do jogo.
 
 
 
