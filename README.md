@@ -12,7 +12,7 @@ Interface Gráfica: Interface de usuário gráfica criada utilizando a bibliotec
 Tecnologias Utilizadas
 
 Python: Linguagem de programação principal utilizada para desenvolver o jogo.
-Pygame: Biblioteca utilizada para criar a interface gráfica e a lógica do jogo.
+
 
 
 ![image](https://github.com/vieiraadev/Snake-game/assets/164572708/4ea21d38-fec9-4c70-ab96-7347d78412a7)
