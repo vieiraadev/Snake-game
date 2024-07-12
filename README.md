@@ -1,4 +1,4 @@
-
+Jogo Snake em Python
 
 Este repositório contém o código-fonte de um jogo Snake desenvolvido utilizando a linguagem de programação Python. O objetivo deste projeto é recriar o clássico jogo Snake, proporcionando uma experiência de jogo divertida e interativa.
 
