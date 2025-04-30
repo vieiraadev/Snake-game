@@ -1,19 +1,29 @@
-Jogo Snake em Python
+# 🐍 Snake Game – Jogo Clássico em Python
 
-Este repositório contém o código-fonte de um jogo Snake desenvolvido utilizando a linguagem de programação Python. O objetivo deste projeto é recriar o clássico jogo Snake, proporcionando uma experiência de jogo divertida e interativa.
+Este projeto é uma recriação do clássico **jogo da cobrinha (Snake)**, desenvolvido em **Python** com a biblioteca **Pygame**. O objetivo é proporcionar uma experiência de jogo divertida, interativa e com desafios progressivos.
 
-Funcionalidades
+---
 
-Jogo de Um Jogador: Controle a cobra e tente obter a maior pontuação possível.
-Crescimento da Cobra: A cobra cresce ao comer a comida, aumentando a dificuldade do jogo.
-Contagem de Pontos: Mantém a contagem de pontos do jogador.
-Inimigo Seguidor: Um inimigo que segue a cobra, aumentando a dificuldade do jogo.
-Interface Gráfica: Interface de usuário gráfica criada utilizando a biblioteca pygame.
-Tecnologias Utilizadas
+## 🎮 Descrição do Projeto
 
-Python: Linguagem de programação principal utilizada para desenvolver o jogo.
-Pygame: Biblioteca utilizada para criar a interface gráfica e a lógica do jogo.
+O jogador controla uma cobra que deve comer a comida para crescer e acumular pontos. Com o aumento do tamanho, o jogo se torna mais difícil. Para adicionar ainda mais desafio, um inimigo segue a cobra pelo mapa, exigindo atenção redobrada do jogador.
 
+### Principais Funcionalidades:
 
+- **Jogo de Um Jogador** com controles simples e intuitivos.
+- **Crescimento da Cobra** conforme ela se alimenta.
+- **Sistema de Pontuação** em tempo real.
+- **Inimigo Seguidor**, que persegue a cobra aumentando a dificuldade.
+- **Interface Gráfica Interativa**, desenvolvida com `pygame`.
 
-![image](https://github.com/vieiraadev/Snake-game/assets/164572708/4ea21d38-fec9-4c70-ab96-7347d78412a7)
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+**Linguagem de Programação:**
+- Python
+
+**Bibliotecas:**
+- `pygame` – Responsável por toda a interface gráfica e lógica de jogo.
+
+---
